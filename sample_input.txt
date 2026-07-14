@@ -1,0 +1,10 @@
+Hi team,
+
+Please reach out to john.doe@example.com or sarah_smith99@company.org for questions
+about the project. You can also cc our support team at support@helpdesk.io.
+
+For billing issues, contact billing@finance-team.co.uk.
+Note: john.doe@example.com is out of office until Friday, so use jane.doe@example.com instead.
+
+Thanks,
+Admin Team
